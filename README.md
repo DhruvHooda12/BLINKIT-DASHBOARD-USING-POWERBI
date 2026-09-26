@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that breaks down **1.20M in grocery sales across 8,523 items and 10 outlets**. It shows which products, store formats and city tiers actually drive revenue for a quick-commerce grocery business.
 
-![Dashboard Preview](assets/dashboard.png)
+
 
 ---
 
